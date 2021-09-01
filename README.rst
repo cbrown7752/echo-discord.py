@@ -105,3 +105,4 @@ Links
 
 - `Official Discord Server <https://discord.gg/uGqJ7cd>`_
 - `Discord API <https://discord.gg/discord-api>`_
+- `Docs <https://echo-discord.readthedocs.io/en/latest/>`_
