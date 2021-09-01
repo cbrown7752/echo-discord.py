@@ -1,7 +1,4 @@
-.. image:: https://echobot.xyz/echo-discord.jpg
-  :width: 400
-  :alt: logo
-  :align: center
+
 
 echo-discord.py
 ----------------
