@@ -1,15 +1,11 @@
-echo-discord.py
-==========
+.. image:: https://echobot.xyz/echo-discord.jpg
+  :width: 400
+  :alt: logo
+  :align: center
 
-.. image:: https://discord.com/api/guilds/336642139381301249/embed.png
-   :target: https://discord.gg/r3sSKJJ
-   :alt: Discord server invite
-.. image:: https://img.shields.io/pypi/v/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI version info
-.. image:: https://img.shields.io/pypi/pyversions/discord.py.svg
-   :target: https://pypi.python.org/pypi/discord.py
-   :alt: PyPI supported Python versions
+echo-discord.py
+----------------
+
 
 A modern, easy to use, feature-rich, and async ready API wrapper for Discord written in Python.
 
@@ -22,7 +18,7 @@ Key Features
 - Optimised in both speed and memory.
 
 Installing
-----------
+-----------
 
 **Python 3.8 or higher is required**
 
@@ -31,29 +27,30 @@ To install the library without full voice support, you can just run the followin
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U https://github.com/cbrown7752/echo-discord.py
+    python3 -m pip install -U echo-discord.py
 
     # Windows
-    py -3 -m pip install -U https://github.com/cbrown7752/echo-discord.py
+    py -3 -m pip install -U echo-discord.py
 
 Otherwise to get voice support you should run the following command:
 
 .. code:: sh
 
     # Linux/macOS
-    python3 -m pip install -U "https://github.com/cbrown7752/echo-discord.py[voice]"
+    python3 -m pip install -U "echo-discord.py[voice]"
 
     # Windows
-    py -3 -m pip install -U https://github.com/cbrown7752/echo-discord.py[voice]
+    py -3 -m pip install -U echo-discord.py[voice]
 
 
 To install the development version, do the following:
 
 .. code:: sh
 
-    $ git clone https://github.com/cbrown7752/echo-discord.py
+    $ git clone echo-discord.py
     $ cd discord.py
     $ python3 -m pip install -U .[voice]
+
 
 
 Optional Packages
@@ -109,6 +106,5 @@ You can find more examples in the examples directory.
 Links
 ------
 
-- `Documentation <https://discordpy.readthedocs.io/en/latest/index.html>`_
-- `Official Discord Server <https://discord.gg/r3sSKJJ>`_
+- `Official Discord Server <https://discord.gg/uGqJ7cd>`_
 - `Discord API <https://discord.gg/discord-api>`_
