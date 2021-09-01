@@ -323,7 +323,7 @@ latex_documents = [
 # (source start file, name, description, authors, manual section).
 man_pages = [
     ('index', 'echo-discord.py', 'discord.py Documentation',
-     ['Rapptz'], 1)
+     ['cbrown7742'], 1)
 ]
 
 # If true, show URL addresses after external links.
@@ -337,7 +337,7 @@ man_pages = [
 #  dir menu entry, description, category)
 texinfo_documents = [
   ('index', 'echo-discord.py', 'echo-discord.py Documentation',
-   'Rapptz', 'echo-discord.py', 'One line description of project.',
+   'cbrown7742', 'echo-discord.py', 'One line description of project.',
    'Miscellaneous'),
 ]
 
