@@ -79,7 +79,7 @@ source_suffix = '.rst'
 master_doc = 'index'
 
 # General information about the project.
-project = 'discord.py'
+project = 'echo-discord.py'
 copyright = '2015-present, Culann'
 
 # The version info for the project you're documenting, acts as replacement for
@@ -196,7 +196,7 @@ resource_links = {
 # The name of an image file (within the static path) to use as favicon of the
 # docs.  This file should be a Windows icon file (.ico) being 16x16 or 32x32
 # pixels large.
-html_favicon = 'https://echobot.xyz/echo-discord.jpg'
+html_favicon = 'echobot.xyz/echo-discord.jpg'
 
 # Add any paths that contain custom static files (such as style sheets) here,
 # relative to this directory. They are copied after the builtin static files,
